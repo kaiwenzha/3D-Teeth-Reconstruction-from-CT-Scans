@@ -1,0 +1,2 @@
+Here is the folder for data.
+Possible contents: /images /labels resnet_v1_101.ckpt train.tfrecords test.tfrecords color_map
