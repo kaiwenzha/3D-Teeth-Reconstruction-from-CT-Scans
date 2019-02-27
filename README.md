@@ -263,7 +263,7 @@ obj_display(input_file_name);
 
 ## Contributors
 
-This repo is maintained by [Kaiwen Zha](https://github.com/Sunshine-KaiwenZha), and [Han Xue](https://github.com/xiaoxiaoxh).
+This repo is maintained by [Kaiwen Zha](https://github.com/KaiwenZha), and [Han Xue](https://github.com/xiaoxiaoxh).
 
 ## Acknowledgement
 
